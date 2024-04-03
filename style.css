@@ -1,3 +1,21 @@
 body {
-    background-color: #383D58;
+    background-color: #0b2be0;
+    color: rgb(221, 15, 15);
+}
+.cabecalho {
+    background-color: #808fe7;
+    color: rgb(212, 144, 144);
+    display:flex;
+    justify-content: space-around;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 76px;
     }
+ * {
+     margin: 0 16px;
+     justify-content: space-around;
+     padding: 24px 0;
+     font-size: 94px;
+ }
+ 
